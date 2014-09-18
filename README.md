@@ -1,4 +1,4 @@
-Getting Started【Focus on SBCL】
+Getting Started (Focus on SBCL)
 ---------------
 
 From a terminal, execute your lisp interpreter on the file 'contemplate.lsp' e.g.
